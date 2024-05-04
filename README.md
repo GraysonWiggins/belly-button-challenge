@@ -13,6 +13,7 @@ The Belly-Button Challenge project aims to build an interactive dashboard to exp
         - `app.js`: This file contains the JavaScript code for the application.
     - `.gitkeep`: This file is used to keep an empty directory in Git.
 - `.DS_Store`: This file is a system file created by macOS to store custom attributes of a folder.
+- `samples.json`: This file contains the data samples for the project.
 
 ## Usage
 To run the project, open the `index.html` file in a web browser.
