@@ -6,13 +6,12 @@ The Belly-Button Challenge project aims to build an interactive dashboard to exp
 ## Project Structure
 - `readme.md`: This file contains information about the project.
 - `.gitignore`: This file specifies which files and directories to ignore in Git.
-- `starter code/`: This directory contains the starter code for the project.
-    - `index.html`: This file is the main HTML file for the project.
-    - `static/`: This directory contains static files for the project.
-        - `.DS_Store`: This file is a system file created by macOS to store custom attributes of a folder.
-        - `js/`: This directory contains JavaScript files.
-            - `app.js`: This file contains the JavaScript code for the application.
-        - `.gitkeep`: This file is used to keep an empty directory in Git.
+- `index.html`: This file is the main HTML file for the project.
+- `static/`: This directory contains static files for the project.
+    - `.DS_Store`: This file is a system file created by macOS to store custom attributes of a folder.
+    - `js/`: This directory contains JavaScript files.
+        - `app.js`: This file contains the JavaScript code for the application.
+    - `.gitkeep`: This file is used to keep an empty directory in Git.
 - `.DS_Store`: This file is a system file created by macOS to store custom attributes of a folder.
 
 ## Usage
