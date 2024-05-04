@@ -16,7 +16,7 @@ The Belly-Button Challenge project aims to build an interactive dashboard to exp
 - `samples.json`: This file contains the data samples for the project.
 
 ## Usage
-To run the project, open the `index.html` file in a web browser.
+To run the project, open https://graysonwiggins.github.io/belly-button-challenge/ file in a web browser.
 
 ## Reference
 Hulcr, J. et al. (2012) *A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable*. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
